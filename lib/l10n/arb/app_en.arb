@@ -1,0 +1,12 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "titleApp": "Weather",
+    "searchHint": "Search for a city or airport",
+    "searchLocation": "Find your city to check the weather...",
+    "extendedForecast": "Extended forecast",
+    "forecastHourly": "Forecast hourly"
+}
